@@ -1,0 +1,11 @@
+#coding:utf-8
+custo = float(raw_input())
+despesa = int(raw_input())
+lucro = int(raw_input())
+imposto = float(raw_input())
+comissao = int(raw_input())
+desconto = int(raw_input())
+encargo = float(raw_input())
+preco_venda = (custo+despesa+lucro)*100/(100-imposto-comissao-desconto-encargo)
+inte = int(preco_venda)
+print "Preço de venda é R$ {:.2f} e {}".format(preco_venda,inte)

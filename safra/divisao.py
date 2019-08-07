@@ -1,0 +1,8 @@
+kg = int(raw_input())
+atacado = int(raw_input())
+varejo = int(raw_input())
+divat = int(kg/atacado)
+restante = float(kg - (atacado*divat))
+divvar = float(restante/varejo)
+print "Clientes no atacado = {}kg cada.".format(divat)
+print "Clientes no varejo = {:.2f}kg cada.".format(divvar)

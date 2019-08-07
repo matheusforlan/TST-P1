@@ -1,0 +1,18 @@
+#coding:utf-8
+n1 = int(raw_input())
+n2 = int(raw_input())
+print "===== Operadores ====="
+print "A = {}".format(n1)
+print "B = {}".format(n2)
+print "Adição = {}".format(n1+n2)
+print "Subtração = {}".format(n1-n2)
+print "Multiplicação = {}".format(n1*n2)
+print "Divisão = {}".format(n1/n2)
+print "Resto = {}".format(n1%n2)
+print "Exponenciação = {}".format(n1**n2)
+print "Negação de A = {}".format(n1*-1)
+print "A é igual a B? {}".format(n1==n2)
+print  "A é diferente de B? {}".format(n1 != n2)
+print "A é maior que B? {}".format(n1 > n2)
+print "B é maior que A? {}".format(n2>n1)
+print "A é menor ou igual a B? {}".format(n1<= n2)
