@@ -1,0 +1,11 @@
+- input: |
+    12
+  name: exemplo
+  output: |
+    12
+
+- input: |
+    -3
+  output: |
+    3
+
