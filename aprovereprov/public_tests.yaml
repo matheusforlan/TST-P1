@@ -1,0 +1,25 @@
+- input: |
+    1
+    10.0
+  name: d2
+  output: |
+    Reprovados: 0
+
+    Aprovados: 1
+    Média: 10.0
+
+- input: |
+    5
+    10.0
+    2.5
+    8.0
+    3.0
+    8.0
+  name: d1
+  output: |
+    Reprovados: 2
+    Média: 2.8
+
+    Aprovados: 3
+    Média: 8.7
+
