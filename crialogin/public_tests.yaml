@@ -1,0 +1,10 @@
+- input: |
+    Matheus Gaudencio do Rego
+    Eliane Araujo
+    Dalton Serey Guerrero
+    fim
+  output: |
+    Matheus Gaudencio do Rego: matheusgr
+    Eliane Araujo: elianea
+    Dalton Serey Guerrero: daltonsg
+

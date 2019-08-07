@@ -1,0 +1,16 @@
+- input: |
+    Domingo
+    200
+    2
+    3
+    40
+    5
+    1.5
+    12
+  output: |
+    Dia da semana? Orcamento? R$ Numero de adultos? Numero de criancas? Preco da pizza? R$ Preco do refrigerante? R$ Preco do estacionamento? R$ Preco do ingresso do cinema? R$ ========== Despesas de Domingo ==========
+    Despesas com alimentacao: R$ 45.0
+    Despesas com cinema: R$ 52.0
+    Despesas por pessoa: R$ 19.7
+    Saldo disponivel: 101.5
+
