@@ -1,0 +1,4 @@
+#coding: utf-8
+so = float(raw_input())
+vo = float(raw_input())
+t = float(raw_input())
